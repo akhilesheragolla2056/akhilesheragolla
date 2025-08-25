@@ -1,5 +1,4 @@
-# akhilesheragolla
-Hello world, this is my profile
+# Hello world, this is my profile
 # 💫 About Me:
 🚀 BTech CSE Student<br>  
 🤖 AI & Web Development Enthusiast<br>  
@@ -7,7 +6,7 @@ Hello world, this is my profile
 🔭 Currently working on projects in Java, Python, and Databases<br>   
 ✨ Interested in building impactful solutions & learning new tech  
 
-<b>🌐 Checkout my portfolio: [My Portfolio](https://akhilesheragolla-portfolio-1-72am.vercel.app/) </b> <!-- replace if you make one -->
+<b>🌐 Checkout my portfolio: [My Portfolio](https://akhilesheragolla-portfolio-1-72am.vercel.app/) </b>
 
 ## 💻 Languages and Tools
 
@@ -21,7 +20,7 @@ Hello world, this is my profile
 [![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,express,postman)](https://skillicons.dev)
 
 ### Database
-[![Database](https://skillicons.dev/icons?i=mysql,oracle,mongodb)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,oracle,mongodb,postgres)](https://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows)](https://skillicons.dev)
@@ -30,26 +29,23 @@ Hello world, this is my profile
 
 ## 🕸️ Other Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesheragolla)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://akhilesheragolla-portfolio-1-72am.vercel.app/) <!-- if you build -->
+
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eragollaakhilesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eragollaakhilesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eragollaakhilesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akhilesheragolla2056&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akhilesheragolla2056&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesheragolla2056&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eragollaakhilesh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akhilesheragolla2056&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eragollaakhilesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Gita Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=“You%20have%20a%20right%20to%20perform%20your%20prescribed%20duties%2C%20but%20you%20are%20not%20entitled%20to%20the%20fruits%20of%20your%20actions.%20-%20Bhagavad%20Gita”)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eragollaakhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=akhilesheragolla2056&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
