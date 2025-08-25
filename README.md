@@ -1,6 +1,5 @@
 # Hello world, this is my profile
 # 💫 About Me:
-## About Me
 - 🎓 B.Tech CSE Student  
 - 🌱 Currently learning **Java Full Stack Development**   
 - 🌍 Traveler | 📸 Love capturing moments  
