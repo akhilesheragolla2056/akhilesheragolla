@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Java Full Stack Development**   
 - 🌍 Traveler | 📸 Love capturing moments  
 - 🚀 Tech Stack: Java, Python, SQL, HTML, CSS, JavaScript  
-- 💻 Also exploring: Java Full Stack Development
+- 👯 I'm looking to collaborate with anyone looking to improve usability of tech
  
 
 <b>🌐 Checkout my portfolio: [My Portfolio](https://akhilesheragolla-portfolio-1-72am.vercel.app/) </b>
