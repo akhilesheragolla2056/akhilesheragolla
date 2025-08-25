@@ -43,7 +43,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=akhilesheragolla2056&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Gita Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=You%20have%20a%20right%20to%20perform%20your%20prescribed%20duties%2C%20but%20you%20are%20not%20entitled%20to%20the%20fruits%20of%20your%20actions.%20-%20Bhagavad%20Geeta)
+### ✍️ Gita Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=You%20have%20a%20right%20to%20perform%20your%20prescribed%20duties%2C%20but%20you%20are%20not%20entitled%20to%20the%20fruits%20of%20your%20actions.&author=Bhagavad%20Gita)
 
 
 ---
